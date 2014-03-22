@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+.main-col{ width:635px; height:auto; border:1px solid #C6CFE7; background-color:white;}
+
+.rad-box{ border-bottom-left-radius:3px; border-bottom-right-radius:3px; border-top-left-radius:3px; border-top-right-radius:3px;}
+
+.user-show{ font-size:14px; font-weight:bold;}
+.user-show:hover{ text-decoration:underline;}
+
+.time-show{ color:#333; font-size:11px;}
+
+.head-show{ margin:15px 15px 0px 15px; border-bottom:1px solid #EFEBEF; padding-bottom:10px;}
+
+.main-show{ padding:15px 15px 15px 15px;}
+
+.like-show{ background-color:#EEEEE7; margin:1px 2px 1px 2px; padding-top:5px; padding-bottom:5px;}
+
+.like-show span{ margin-left:15px;}
+
+.like-tool{ text-decoration:none;}
+.like-tool:hover{ text-decoration:underline;}
+
+.icon-like{ background-image:url(../IMG/pic-like.png); height:13px; width:15px; background-position:0 -52px; background-size:auto; display:inline-block; margin-right:3px;}
+
+.likers:hover{ text-decoration:underline;}
+
+.link-user{float:left; margin-right:10px; font-weight:bold; text-decoration:none; background-color:#EDEFF4; font-size:12px;}
+.link-user:hover{ text-decoration:underline;}
+
+.msg-user{ font-size:11px;}
+
+.time-cmt{ text-decoration:none; color:#8D8DAF; font-size:11px;}
+.time-cmt:hover{ text-decoration:underline; cursor:pointer;}
+
+.like-cmt{ font-size:11px; margin-left:20px;}
+.like-cmt:hover{ text-decoration:underline;}
+
+.cmt-show{ outline:none; padding:2px 5px 2px 5px; font-size:11px; width:570px;}
+
+input{
+	font-family:Tahoma, Geneva, sans-serif;
+}

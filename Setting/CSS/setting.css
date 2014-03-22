@@ -1,0 +1,111 @@
+.head-set{ }
+
+.tenho td { text-align:right;}
+
+.matkhau td { text-align:right;}
+
+.head-set h3{ font-size:16px;}
+
+.main-set{ margin-left:100px;}
+
+.canhle{ padding:15px 26px 25px 26px;}
+
+#mainbody{ margin-left:auto; margin-right:auto; width:700px; min-height:100px;margin-top:50px;}
+
+.main-col{ width:850px; height:auto; border:1px solid #C6CFE7; background-color:white;}
+
+.rad-box{ border-bottom-left-radius:3px; border-bottom-right-radius:3px; border-top-left-radius:3px; border-top-right-radius:3px;}
+
+.input-set{ padding: 5px;  
+    font-size: 15px;  
+    text-shadow: 0px 1px 0px #fff;  
+    outline: none;  
+    background: -webkit-gradient(linear, left top, left bottombottom, from(#bcbcbe), to(#ffffff));  
+    background: -moz-linear-gradient(top,  #bcbcbe,  #ffffff);  
+    -webkit-border-radius: 3px;  
+    -moz-border-radius: 3px;  
+    border-radius: 3px;  
+    border: 1px solid #BCD7D8;  
+    -webkit-box-shadow: 1px 1px 0px #efefef;  
+    -moz-box-shadow: 1px 1px 0px #efefef;  
+    box-shadow:  1px 1px 0px #efefef; background-color:#F2F2F2;}
+
+.input-set:focus{
+  -webkit-box-shadow: 0px 0px 5px #007eff;  
+    -moz-box-shadow: 0px 0px 5px #007eff;  
+    box-shadow: 0px 0px 5px #007eff; }
+
+.tieude-set{ font-size:11px; color:gray; font-weight:bold;}
+
+.buttonPost{background-image:url(../IMG/demo.png);background-position:-1px -441px; border:1px solid #29447E; padding-bottom:3px;}
+.buttonPost:active{background:#4f6AA3;border-bottom-color:#29447E;}
+
+.btnPost{background-color:transparent; border:none; border-color:transparent; display:inline-block; color:white; cursor:pointer;font-family:Tahoma, Geneva, sans-serif; font-size:11px; font-weight:bold; text-align:center;  vertical-align:central; margin:0px; padding:0px 6px 0px 6px;}
+
+.Cancel{ background-color:white; border:1px solid #999999; padding:0px 5px 3px 5px; font-weight:bold;}
+.Cancel:hover{ cursor:pointer;}
+.Cancel:active{ background-color:#DDDDDD;}
+
+#nameError{
+	
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	padding:7px 3px 7px 3px;
+	display:block;
+	border:solid;
+	border-width:1px;
+	border-color:#FF0000;
+	background-color:#FCC;
+	text-align:center;
+	height:12px;
+	width:180px;
+	display:none;
+}
+
+#nameSuccess{
+	
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	padding:7px 3px 7px 3px;
+	display:block;
+	border:solid;
+	border-width:1px;
+	border-color:#06F;
+	background-color:#0CF;
+	text-align:center;
+	height:12px;
+	width:180px;
+	display:none;
+}
+
+#passError{
+	
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	padding:7px 3px 7px 3px;
+	display:block;
+	border:solid;
+	border-width:1px;
+	border-color:#FF0000;
+	background-color:#FCC;
+	text-align:center;
+	height:12px;
+	width:180px;
+	display:none;
+}
+
+#passSuccess{
+	
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	padding:7px 3px 7px 3px;
+	display:block;
+	border:solid;
+	border-width:1px;
+	border-color:#06F;
+	background-color:#0CF;
+	text-align:center;
+	height:12px;
+	width:180px;
+	display:none;
+}

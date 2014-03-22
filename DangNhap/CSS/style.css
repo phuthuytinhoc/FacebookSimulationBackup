@@ -1,0 +1,95 @@
+/* CSS Document */
+#header{
+	background-color:#3B5998;
+	height:83px;
+	width:1350px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+}
+
+#logo{
+	position:absolute;
+	top:30px;
+	left:185px;
+}
+
+.divLogin{
+	font-size:11px;
+	font-family:Tahoma, Geneva, sans-serif;
+	position:absolute;
+	top:14px;
+	left:780px;
+	color:white;
+}
+
+.inputText{
+	border:1px solid #BDC7D8;
+	width:120px;
+	padding-left:3px; padding-right:3px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	height:14px;
+}
+
+#divBody{
+	position:absolute;
+	top:83px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+}
+
+#divError{
+	
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	padding:7px 3px 7px 3px;
+	display:block;
+	border:solid;
+	border-width:1px;
+	border-color:#FF0000;
+	background-color:#FCC;
+	text-align:center;
+	height:12px;
+	width:400px;
+	display:none;
+}
+
+#btn-dangnhap{background-color:transparent; border:none; border-color:transparent; display:inline-block; color:white; cursor:pointer; height:32px; font-family:Tahoma, Geneva, sans-serif; font-size:10px; font-weight:bold; text-align:center;margin-right:10px; margin-top:12px; vertical-align:central;}
+
+.btndangnhap{background-image:url(../IMG/demo.png);background-position:-1px -441px; border:1px solid #29447E; height:23px; cursor:pointer; color:white; width:auto; font-weight:bold; font-family:Tahoma, Geneva, sans-serif; font-size:11px;}
+.btndangnhap:active{background:#4f6AA3;border-bottom-color:#29447E;}
+
+#btndangky{background-color:transparent; border:none; border-color:transparent; display:inline-block; color:white; cursor:pointer; height:32px; font-family:Tahoma, Geneva, sans-serif; font-size:11px; font-weight:bold; text-align:center;margin-top:2px; vertical-align:central;}
+
+.button_DangKy{background-color:#74AD5A; border:1px solid #3B6E22; height:27px; cursor:pointer; color:white; width:90px; font-weight:bold; font-family:Tahoma, Geneva, sans-serif;}
+.button_DangKy:active{background:#609946;}
+
+table{ font-family:Tahoma, Geneva, sans-serif; font-size:13px; color:#0E385F;
+
+}
+
+.dk{ font-size:18px; color:#0E385F; font-weight:bold;}
+
+.text_info{ width:264px; height:19px; padding:6px 6px 6px 6px; border:1px solid #96A6C5;}
+
+.select{border:1px solid #BDC7D8; padding:5px 5px 5px 5px;}
+
+.label_fbRules{color:black;}
+
+.tag-a{ text-decoration:none; color:#3B5998;}
+.tag-a:hover{ text-decoration:underline;}
+
+#connect{
+	position:absolute;
+	top:20px;
+	left:50px;
+}
+
+#tdRegis{
+	position:absolute;
+	top:-30px;
+	left:665px;
+}

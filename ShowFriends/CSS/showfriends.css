@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+.main-col{ width:850px; height:auto; border:1px solid #C6CFE7; background-color:white;}
+
+.rad-box{ border-bottom-left-radius:3px; border-bottom-right-radius:3px; border-top-left-radius:3px; border-top-right-radius:3px;}
+
+.add-f{ border-bottom:2px solid #C6CFE7;}
+
+.head-friend{ margin:2px 2px 2px 2px; background-color:#ECEFF5; padding:0px 26px 0px 26px; border-bottom:1px solid #D8DFEA;}
+
+.t-f{ font-size:16px;}
+
+.width-t{ widows:522px;}
+
+.SearchF{ width:auto; height:22px;border:1px solid #BDC7D8;}
+
+.khungSearchF{height:22px;float:left;}
+
+.textKhung{width:200px;;height:21px;border:0px;font-family: "lucida grande",tahoma,verdana,arial,sans-serif;font-size: 11px;outline:none;padding-left:5px; padding-bottom:0px; padding-top:1px; float:left;}
+
+.iconSF{width:22px;height:22px;float:right; }
+
+.buttonSF{width: 22px;height: 22px;border: 0px;background-image: url(../IMG/mau.png);background-position: -271px -28px;background-color: white;display: block;-webkit-box-align: center;text-align: center;}
+.buttonSF:hover{ cursor:pointer;}
+
+.content-friend{ margin:10px 0px 0px 26px;}
+
+.user-friend span{ display:block;}
+
+.buttonBanBe{ padding:2px 6px 2px 6px; border:1px solid #999999;}
+.buttonBanBe:hover{ cursor:pointer;}
+
+.link-friend{ text-decoration:none; padding-left:5px;}
+.link-friend:hover{ text-decoration:underline;}
+
+.user-f{ font-weight:bold; font-size:13px;}
+
+.banchung-f{ color:gray; font-size:11px;}
+
+.box-friend{margin-right:26px; border-bottom:1px solid #D3D3D3; padding-bottom: 10px; margin-bottom:10px; margin-right:26px;}
+
+.buttonPost{background-image:url(../IMG/demo.png);background-position:-1px -441px; border:1px solid #29447E; padding-bottom:3px;}
+.buttonPost:active{background:#4f6AA3;border-bottom-color:#29447E;}
+
+.btnPost{background-color:transparent; border:none; border-color:transparent; display:inline-block; color:white; cursor:pointer;font-family:Tahoma, Geneva, sans-serif; font-size:11px; font-weight:bold; text-align:center;  vertical-align:central; margin:0px; padding:0px 6px 0px 6px;}
+
+.Cancel{ background-color:white; border:1px solid #999999; padding:0px 5px 3px 5px; font-weight:bold;}
+.Cancel:hover{ cursor:pointer;}
+.Cancel:active{ background-color:#DDDDDD;}
